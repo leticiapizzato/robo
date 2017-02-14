@@ -1,0 +1,5 @@
+rest\JaxRsActivator.class
+model\Posicao.class
+model\Robo.class
+rest\RoboRESTService.class
+model\Terreno.class
